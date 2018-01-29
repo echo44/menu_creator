@@ -5,6 +5,7 @@ import random
 import os
 import pickle
 
+#teeeeeest
 
 def send_2_vk(log, paswd, menu):
     """Send menu 2 vk"""
