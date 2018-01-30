@@ -4,7 +4,6 @@ import menu
 import random
 import os
 import pickle
-#import gui_app as ga
 from tkinter import *
 
 #controller
