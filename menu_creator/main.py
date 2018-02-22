@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#model
 import gui_app as ga
 from tkinter import *
 import functions as fn
